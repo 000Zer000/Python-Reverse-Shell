@@ -1,0 +1,7 @@
+.tox/
+.pytest-cache/
+__pycache__/
+.py[co]
+.idea/
+.vscode/
+.swp/
